@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/perm/general" idtf="a" shapeColor="0" id="105553152508112" parent="105553165238448" left="0" top="0" right="14.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="429" y="611" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="b" shapeColor="0" id="105553152507904" parent="105553165238448" left="0" top="0" right="14.5" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="342" y="521" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="c" shapeColor="0" id="105553152540672" parent="105553165238448" left="0" top="0" right="13.7656" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="524" y="520" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="d" shapeColor="0" id="105553152543792" parent="105553165238448" left="0" top="0" right="15.0781" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="657" y="483" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/perm/general" idtf="e" shapeColor="0" id="105553152475344" parent="105553165238448" left="0" top="0" right="13.7656" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" x="462" y="413" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156833280" parent="105553165238448" id_b="105553152507904" id_e="105553152475344" b_x="342" b_y="521" e_x="462" e_y="413" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156882672" parent="105553165238448" id_b="105553152475344" id_e="105553152540672" b_x="462" b_y="413" e_x="524" e_y="520" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156866048" parent="105553165238448" id_b="105553152507904" id_e="105553152508112" b_x="342" b_y="521" e_x="429" e_y="611" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156866288" parent="105553165238448" id_b="105553152507904" id_e="105553152540672" b_x="342" b_y="521" e_x="524" e_y="520" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156849904" parent="105553165238448" id_b="105553152540672" id_e="105553152508112" b_x="524" b_y="520" e_x="429" e_y="611" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156849664" parent="105553165238448" id_b="105553152540672" id_e="105553152543792" b_x="524" b_y="520" e_x="657" e_y="483" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156837840" parent="105553165238448" id_b="105553152475344" id_e="105553152543792" b_x="462" b_y="413" e_x="657" e_y="483" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156840960" parent="105553165238448" id_b="105553152508112" id_e="105553152540672" b_x="429" b_y="611" e_x="524" e_y="520" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156883872" parent="105553165238448" id_b="105553152508112" id_e="105553152507904" b_x="429" b_y="611" e_x="342" e_y="521" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156853024" parent="105553165238448" id_b="105553152540672" id_e="105553152507904" b_x="524" b_y="520" e_x="342" e_y="521" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156840720" parent="105553165238448" id_b="105553152475344" id_e="105553152507904" b_x="462" b_y="413" e_x="342" e_y="521" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156852784" parent="105553165238448" id_b="105553152543792" id_e="105553152540672" b_x="657" b_y="483" e_x="524" e_y="520" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156886272" parent="105553165238448" id_b="105553152540672" id_e="105553152475344" b_x="524" b_y="520" e_x="462" e_y="413" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/-/perm/orient" idtf="" shapeColor="0" id="105553156886512" parent="105553165238448" id_b="105553152543792" id_e="105553152475344" b_x="657" b_y="483" e_x="462" e_y="413" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <contour type="contour/const/perm" idtf="vazmoshno" shapeColor="193" id="105553165238448" parent="0" left="0" top="0" right="67.9063" bottom="23" textColor="164" text_angle="0" text_font="Times New Roman" font_size="10" idtf_pos_x="0" idtf_pos_y="0">
+            <points>
+                <point x="260" y="320"/>
+                <point x="847" y="347"/>
+                <point x="669" y="770"/>
+                <point x="222" y="682"/>
+            </points>
+        </contour>
+    </staticSector>
+</GWF>
